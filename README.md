@@ -2,9 +2,20 @@
 
 Zaman Avcısı, React Native ve Expo ile geliştirilmiş, refleks ve zamanlama becerilerinizi test eden heyecan verici bir mobil oyundur. Oyuncular, ekranda beliren zaman portallarını yakalayarak puan toplar ve çeşitli güçlendirmelerle oyun deneyimini zenginleştirir.
 
+## 📸 Ekran Görüntüleri
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./assets/screenshots/IMG_9533.jpg" width="200" alt="Zaman Avcısı Ekran Görüntüsü 1">
+  <img src="./assets/screenshots/IMG_9534.jpg" width="200" alt="Zaman Avcısı Ekran Görüntüsü 2">
+  <img src="./assets/screenshots/IMG_9535.jpg" width="200" alt="Zaman Avcısı Ekran Görüntüsü 3">
+  <img src="./assets/screenshots/IMG_9536.jpg" width="200" alt="Zaman Avcısı Ekran Görüntüsü 4">
+  <img src="./assets/screenshots/IMG_9537.jpg" width="200" alt="Zaman Avcısı Ekran Görüntüsü 5">
+</div>
+
 ## 🎮 Oyun Mekanikleri
 
 ### Temel Oynanış
+
 - Ekranda beliren zaman portallarına dokunarak puan kazanın
 - Her seviyede artan zorluk ve hızla karşılaşın
 - Farklı portal türleri ile stratejik kararlar verin:
@@ -16,6 +27,7 @@ Zaman Avcısı, React Native ve Expo ile geliştirilmiş, refleks ve zamanlama b
   - 💖 Ekstra Can Portalları: Can takviyesi
 
 ### Özellikler
+
 - 9 farklı zorluk seviyesi
 - Her seviyede benzersiz görsel temalar
 - Yüksek skor sistemi
@@ -35,21 +47,25 @@ Zaman Avcısı, React Native ve Expo ile geliştirilmiş, refleks ve zamanlama b
 ## 🚀 Kurulum
 
 1. Repoyu klonlayın:
+
 ```bash
 git clone https://github.com/hasankumbur/zaman-avcisi.git
 ```
 
 2. Proje dizinine gidin:
+
 ```bash
 cd zaman-avcisi
 ```
 
 3. Bağımlılıkları yükleyin:
+
 ```bash
 npm install
 ```
 
 4. Uygulamayı başlatın:
+
 ```bash
 npm start
 ```
